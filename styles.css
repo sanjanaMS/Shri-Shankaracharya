@@ -1,0 +1,141 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+.top-container{
+  background-color: #a2de96;
+  padding-top:100px;
+  position:relative;
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.615rem;
+  margin:20 auto 0 auto;
+
+}
+h2{
+  font-family: 'Acme', sans-serif;
+}
+p{
+  font-family: 'Amaranth', sans-serif;
+}
+.chakra{
+  position: absolute;
+  left:0;
+  top:0;
+}
+.delhi{
+  position: absolute;
+  right:0;
+  top:0;
+}
+.has{
+  text-decoration: underline;
+}
+.sur{
+  text-decoration: underline;
+}
+
+.sri{
+  text-decoration: underline;
+}
+.tot{
+    text-decoration: underline;
+
+}
+.padma{
+  border-radius: 100%
+}
+.shankara{
+  border-radius: 50%;
+}
+.Hastamalaka{
+  border-radius: 50%;
+}
+.sur{
+    border-radius: 50%;
+}
+
+hr{
+  border-style: dotted  none none none;
+  width:20%;
+  border-color:  #393e46;
+  border-width: 6px;
+}
+.sri{
+  border-radius: 100%;
+  display:inline-block;
+}
+.th{
+  border-radius: 100%;
+  display:inline-block;
+}
+.vid{
+  border-radius: 100%;
+  display:inline-block;
+}
+.six{
+  border-style: dotted  none none none;
+  width:20%;
+  border-color:  #393e46;
+  border-width: 6px;
+}
+.bio{
+  text-decoration: underline;
+}
+.life{
+  text-decoration: underline;
+}
+.des{
+  text-decoration: underline;
+}
+.death{
+  text-decoration: underline;
+}
+.bi{
+  text-decoration: underline;
+}
+.works{
+  text-decoration: underline;
+
+}
+.phil{
+  text-decoration: underline;
+
+}
+.inf{
+  text-decoration: underline;
+
+}
+.mat{
+  text-decoration: underline;
+
+}
+.shri{
+  background-color: #fecb89;
+  text-align: center;
+
+
+}
+.fonts{
+  font-family: 'Amaranth', sans-serif;
+}
+h3{
+  font-family: 'Anton', sans-serif;
+}
+.top{
+  background-color: #99d8d0;
+  padding: 100px;
+  position: relative;
+}
+.geri{
+  position: absolute;
+  left:0;
+  border-radius: 50%;
+}
+.face{
+  position: absolute;
+  right:0;
+  border-radius: 50%;
+}
